@@ -8,6 +8,6 @@ Travaux Pratiques n°3
 - `contributor-3`: CHEMMOUL ELies Group 
 
 ## Fork urls
-- `contributor-1`: [quotes-dhegbo-group](url-1)
-- `contributor-2`: [quotes-dhegbo-group](url-2)
-- `contributor-3`: [quotes-dhegbo-group](url-3)
+- `contributor-1`: [quotes-dhegbo-group](https://github.com/ili2z78/quotes-dhegbo-group)
+- `contributor-2`: [quotes-dhegbo-group](https://github.com/ClemsD1/quotes-dhegbo-group)
+- `contributor-3`: [quotes-dhegbo-group](https://github.com/6lies/quotes-dhegbo-group)
